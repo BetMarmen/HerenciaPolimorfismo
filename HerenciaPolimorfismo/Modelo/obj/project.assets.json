@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\SISTEMAS2-08\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
+      "projectUniqueName": "C:\\Users\\SISTEMAS2-08\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\HerenciaPolimorfismo\\Modelo\\obj\\",
+      "projectPath": "C:\\Users\\SISTEMAS2-08\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
+      "packagesPath": "C:\\Users\\SISTEMAS2-08\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SISTEMAS2-08\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SISTEMAS2-08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
